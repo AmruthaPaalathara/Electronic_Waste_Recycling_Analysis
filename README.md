@@ -1,4 +1,4 @@
- Electronic_Waste_Recycling_Analysis
+# Electronic_Waste_Recycling_Analysis
 
 ## Project Overview
 This project focuses on the recycling of electronic waste during the pandemic years, 2020 and 2021. It looks at recycling trends across different regions and compares the performance of developed and developing countries. Using Power BI, the project identifies patterns in recycling rates and provides insights that can help improve global recycling efforts.
