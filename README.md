@@ -33,4 +33,4 @@ The Power BI dashboard includes:
 + Global datasets on e-waste recycling from the SDG website (https://unstats.un.org/sdgs/dataportal/database)
 
 ## Dashboard
-* The Dashboard created is 
+* The Dashboard created is (https://github.com/AmruthaPaalathara/Electronic_Waste_Recycling_Analysis/blob/main/Analysis_Electronic_Waste_Recycling_Trends.pdf)
